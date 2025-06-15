@@ -1,4 +1,4 @@
-package com.ITK.kalenyuk.entity;
+package com.javarush.kalenyuk.entity;
 
 public enum Continent {
     ASIA,

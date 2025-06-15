@@ -1,4 +1,4 @@
-package com.ITK.kalenyuk.entity;
+package com.javarush.kalenyuk.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;

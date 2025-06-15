@@ -1,6 +1,6 @@
-package com.ITK.kalenyuk.dao;
+package com.javarush.kalenyuk.dao;
 
-import com.ITK.kalenyuk.entity.Country;
+import com.javarush.kalenyuk.entity.Country;
 import org.hibernate.SessionFactory;
 import org.hibernate.query.Query;
 

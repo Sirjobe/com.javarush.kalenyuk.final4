@@ -1,4 +1,4 @@
-package com.ITK.kalenyuk.redis;
+package com.javarush.kalenyuk.redis;
 
 import lombok.Getter;
 import lombok.Setter;

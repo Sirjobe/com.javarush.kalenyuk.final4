@@ -1,6 +1,6 @@
-package com.ITK.kalenyuk.redis;
+package com.javarush.kalenyuk.redis;
 
-import com.ITK.kalenyuk.entity.Continent;
+import com.javarush.kalenyuk.entity.Continent;
 import lombok.Getter;
 import lombok.Setter;
 

@@ -1,12 +1,12 @@
-package com.ITK.kalenyuk;
+package com.javarush.kalenyuk;
 
-import com.ITK.kalenyuk.dao.CityDAO;
-import com.ITK.kalenyuk.dao.CountryDAO;
-import com.ITK.kalenyuk.entity.City;
-import com.ITK.kalenyuk.entity.Country;
-import com.ITK.kalenyuk.entity.CountryLanguage;
-import com.ITK.kalenyuk.redis.CityCountry;
-import com.ITK.kalenyuk.redis.Language;
+import com.javarush.kalenyuk.dao.CityDAO;
+import com.javarush.kalenyuk.dao.CountryDAO;
+import com.javarush.kalenyuk.entity.City;
+import com.javarush.kalenyuk.entity.Country;
+import com.javarush.kalenyuk.entity.CountryLanguage;
+import com.javarush.kalenyuk.redis.CityCountry;
+import com.javarush.kalenyuk.redis.Language;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.lettuce.core.RedisClient;
